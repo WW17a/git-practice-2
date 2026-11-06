@@ -9,3 +9,5 @@ console.log("added fourth commit on feature / auth");
 console.log("added fifth commit on feature / auth");
 
 console.log("this is sixth commit on feature/auth");
+
+console.log("adding seventh commit on feature / auth ");
